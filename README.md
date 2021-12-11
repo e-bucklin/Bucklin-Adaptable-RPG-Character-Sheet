@@ -11,9 +11,17 @@ Thank you so much for the time and effort you put into your work which brings jo
 
 INSTRUCTIONS:
 
+Adding New Stat Lines:
+
+Clicking the plus button next to a statistic category will produce a new statistic line in that category.
+
+The Save Button:
+
 The "save" button will create a new excel file or append an existing excel file with the entered character name as the file name.  This save will appear in the same folder     that the program .exe is stored.  When appending an existing file, it will create a new tab so users can keep track of the history of character development.
 
 Any entry left blank will produce a blank cell in the saved Excel file
+
+The Load Button:
 
 The "load" button will prompt you to select an existing excel file to load.  It will load the most recent tab information.  If you wish to go back to a previous tab, you can delete subsequent tabs.  If you wish to retain those tabs, it is recommend to move them to another excel file before deleting.
 
