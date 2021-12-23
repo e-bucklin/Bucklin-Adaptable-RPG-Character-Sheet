@@ -39,4 +39,4 @@ HOW TO DELETE LINES:
 
 Currently there is no in-program method for deleting unwanted lines.  There are two options instead.
 1) By deleting all entries on a line it will save to excel as blank cells.  This simply creates spacing in excel.  Note: when loaded again this will create a line with empty entries again, so it does not permenently delete a line.
-2) By saving and closing the program and then deleting the undesired row in excel, you can reload the character sheet without the line. (note: when I say delete the row here I mean such that it prompts you to move the cells up.  The row must not be present upon loading for this to work.  i.e. use the actual delete button.  you could also just copy the cells below the row and move them up)
+2) By deleting the undesired row in excel and saving the excel file, you can reload the character sheet without the line. (note: when I say delete the row here I mean such that it prompts you to move the cells up.  The row must not be present upon loading for this to work.  i.e. use the actual delete button.  you could also just copy the cells below the row and move them up)
